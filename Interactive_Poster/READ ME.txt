@@ -1,0 +1,16 @@
+Interactive Poster
+---------------------------------------------------------------------------
+
+(You can skip to number 2 since the code has already be installed on the arduino)
+
+1. Run the Arduino File to put the files on arduino and make sure that processing and  arduino files are using the same port.
+
+2. Run the processing file. (This should play the song,start the motor and the leds will start blinking )
+
+3. Lastly run the python file to initiate the ultrasonic sensor. (This should stop everything unless you have something in front of the ultrasonic sensor) 
+
+4. It is important to run the codes in that order or processing will find some errors.
+
+4. Enjoy :)
+
+---------------------------------------------------------------------------

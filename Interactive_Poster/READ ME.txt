@@ -11,6 +11,12 @@ Interactive Poster
 
 4. It is important to run the codes in that order or processing will find some errors.
 
-4. Enjoy :)
+5. Enjoy :)
+
+
+
+---------------------------------------------------------------------------
+
+reminder: The sd card given with the assignment is mine since the one given was too small for all the programs to work. (The one given is in the pouch)(my sd card is in the raspberry pi :) )
 
 ---------------------------------------------------------------------------
